@@ -1,0 +1,15 @@
+/workspaces/platzi-fundamentos_.net/consoleapp/bin/release/net7.0/consoleapp
+/workspaces/platzi-fundamentos_.net/consoleapp/bin/release/net7.0/consoleapp.deps.json
+/workspaces/platzi-fundamentos_.net/consoleapp/bin/release/net7.0/consoleapp.runtimeconfig.json
+/workspaces/platzi-fundamentos_.net/consoleapp/bin/release/net7.0/consoleapp.dll
+/workspaces/platzi-fundamentos_.net/consoleapp/bin/release/net7.0/consoleapp.pdb
+/workspaces/platzi-fundamentos_.net/consoleapp/obj/release/net7.0/consoleapp.csproj.AssemblyReference.cache
+/workspaces/platzi-fundamentos_.net/consoleapp/obj/release/net7.0/consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/platzi-fundamentos_.net/consoleapp/obj/release/net7.0/consoleapp.AssemblyInfoInputs.cache
+/workspaces/platzi-fundamentos_.net/consoleapp/obj/release/net7.0/consoleapp.AssemblyInfo.cs
+/workspaces/platzi-fundamentos_.net/consoleapp/obj/release/net7.0/consoleapp.csproj.CoreCompileInputs.cache
+/workspaces/platzi-fundamentos_.net/consoleapp/obj/release/net7.0/consoleapp.dll
+/workspaces/platzi-fundamentos_.net/consoleapp/obj/release/net7.0/refint/consoleapp.dll
+/workspaces/platzi-fundamentos_.net/consoleapp/obj/release/net7.0/consoleapp.pdb
+/workspaces/platzi-fundamentos_.net/consoleapp/obj/release/net7.0/consoleapp.genruntimeconfig.cache
+/workspaces/platzi-fundamentos_.net/consoleapp/obj/release/net7.0/ref/consoleapp.dll
